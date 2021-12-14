@@ -1,5 +1,13 @@
 export default function Home() {
   return (
-    <h1 className="text-3xl font-bold underline text-center">Hello world!</h1>
+    <div
+      className={`
+    flex justify-center items-center h-screen
+    bg-gradient-to-r from-blue-500 to-purple-500
+    text-white
+    `}
+    >
+      <h1>App</h1>
+    </div>
   );
 }
