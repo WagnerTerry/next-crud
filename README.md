@@ -17,3 +17,5 @@ Dependências
 - npm install --save-dev @types/react typescript
 - npm install -D tailwindcss postcss autoprefixer
 - npx tailwindcss init -p
+- npm i firebase
+- npm install firebase@8.8.0
